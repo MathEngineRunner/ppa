@@ -1,5 +1,4 @@
-# math-tool-executor-ppa-repo
-
+# MathToolExecutor PPA repo
 
 ## References
 
