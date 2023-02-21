@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/math-tool-executor-ppa.gpg] https://rsouza01.github.io/math-tool-executor-ppa ./
