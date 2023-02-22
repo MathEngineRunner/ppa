@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/mathtoolexecutor.gpg] https://mathtoolexecutor.github.io/ppa/ubuntu ./
